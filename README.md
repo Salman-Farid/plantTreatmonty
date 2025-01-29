@@ -154,6 +154,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
+
 ## 🚀 Quick Start
 
 Run the Flutter app using the following command:
