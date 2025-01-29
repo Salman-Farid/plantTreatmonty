@@ -106,20 +106,7 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 #### 🏷️ Plant Names
 ```plaintext
-Bitter gourd
-Corn
-Cucumber
-Eggplant
-Lentil
-Paddy
-Potato
-Sugarcane
-Tomato
-Wheat
-Soybean
-Pepper
-Pumpkin
-These are the 13 
+Bitter gourd, Corn, Cucumber, Eggplant, Lentil, Paddy, Potato, Sugarcane, Tomato, Wheat, Soybean, Pepper, Pumpkin.
 
 ```
 
