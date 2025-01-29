@@ -1,3 +1,9 @@
+!https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/top_image.png
+
+
+
+
+
 # 🌱 PlantTreatmonty: Plant Disease Detection App
 ---
 
