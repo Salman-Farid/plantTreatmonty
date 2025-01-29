@@ -136,13 +136,12 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 
 ## ✨Technology Used:
-```
+
 - 🚀 **[PyTorch](https://pytorch.org/)** – For providing efficient tools to deploy ML models.  
 - 📖 **[Flutter Documentation](https://flutter.dev/docs)** – For comprehensive development resources.  
 - 🔐 **[Firebase](https://firebase.google.com/)** – For secure authentication and backend support.  
 - ⚡ **[FastAPI](https://fastapi.tiangolo.com/)** – For serving the ML model efficiently.  
 - 🌐 **[Vercel](https://vercel.com/)** – For deploying the model API server.  
-```
 ---
 
 ## 🔗 Useful Links
