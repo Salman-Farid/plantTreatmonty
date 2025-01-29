@@ -1,7 +1,3 @@
-Here’s the updated README file with the necessary details about the quantized PyTorch model (EfficientNet-B0), class labels, and API deployment. I’ve also included the links to the FastAPI server and GitHub repositories.
-
----
-
 # 🌱 PlantTreatmonty: Plant Disease Detection App
 
 PlantTreatmonty is a Flutter-based mobile application designed to help users identify plant diseases, gain plant care insights, and access a library of common plant diseases. Powered by a **quantized PyTorch model (EfficientNet-B0)**, this app provides fast and accurate plant disease detection without relying on server-based predictions. Additional features include user authentication via Firebase, a plant care tips section, and an extensive disease library for users to explore.
@@ -87,69 +83,89 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 ---
 
+Here’s your refined version with professional formatting and clickable links:
+
+---
+
 ## 🔥 Technical Details
 
-- **Flutter Framework**: A cross-platform UI toolkit to build the app for both Android and iOS.
-- **Firebase Authentication**: Manages user authentication securely.
-- **PyTorch (EfficientNet-B0)**: A quantized deep learning model trained for detecting plant diseases. The model is optimized to perform predictions directly on the device for low latency and offline functionality.
-- **Dart**: Main programming language used in Flutter development.
+- **Flutter Framework**: A cross-platform UI toolkit for building high-performance Android and iOS applications.
+- **Firebase Authentication**: Ensures secure user authentication.
+- **PyTorch (EfficientNet-B0)**: A quantized deep learning model optimized for on-device plant disease detection, ensuring low latency and offline functionality.
+- **Dart**: The primary programming language used for Flutter development.
 
-### ML Model Details
+### ⚙️ ML Model Details
 
-- **Model Name**: EfficientNet-B0 (Quantized)
-- **Classes**: 66
-- **Plants**: 13
-- **Class Labels**:
-  ```plaintext
-  Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot,
-  Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency,
-  Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency,
-  Bitter gourd - Potassium and Magnesium Deficiency, Corn_Blight, Corn_Common_Rust, Corn_Gray_Leaf_Spot,
-  Corn_Healthy, Cucumber_Anthracnose, Cucumber_Bacterial Wilt, Cucumber_Downy Mildew, Cucumber_Fresh Leaf,
-  Cucumber_Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy,
-  Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency,
-  Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil_Ascochyta blight,
-  Lentil_Normal, Lentil_Powdery Mildew, Lentil_Rust, Paddy_bacterial_leaf_blight, Paddy_bacterial_leaf_streak,
-  Paddy_bacterial_panicle_blight, Paddy_blast, Paddy_brown_spot, Paddy_dead_heart, Paddy_downy_mildew,
-  Paddy_hispa, Paddy_normal, Paddy_tungro, Potato___Early_blight, Potato___Late_blight, Potato___healthy,
-  Sugarcane_Healthy, Sugarcane_Mosaic, Sugarcane_RedRot, Sugarcane_Rust, Sugarcane_Yellow,
-  Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Leaf_Mold, Tomato_Septoria_leaf_spot,
-  Tomato_Spider_mites_Two_spotted_spider_mite, Tomato__Target_Spot, Tomato__Tomato_YellowLeaf__Curl_Virus,
-  Tomato__Tomato_mosaic_virus, Tomato_healthy, Wheat_Brown rust, Wheat_Healthy, Wheat_Loose Smut,
-  Wheat_Mildew, Wheat_Septoria, Wheat_Stem Rust, Wheat_Yellow rust
-  ```
+- **Model Name**: EfficientNet-B0 (Quantized)  
+- **Total Classes**: 66  
+- **Supported Plants**: 13  
+
+#### 🏷️ Class Labels
+```plaintext
+Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot,
+Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency,
+Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency,
+Bitter gourd - Potassium and Magnesium Deficiency, Corn_Blight, Corn_Common_Rust, Corn_Gray_Leaf_Spot,
+Corn_Healthy, Cucumber_Anthracnose, Cucumber_Bacterial Wilt, Cucumber_Downy Mildew, Cucumber_Fresh Leaf,
+Cucumber_Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy,
+Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency,
+Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil_Ascochyta blight,
+Lentil_Normal, Lentil_Powdery Mildew, Lentil_Rust, Paddy_bacterial_leaf_blight, Paddy_bacterial_leaf_streak,
+Paddy_bacterial_panicle_blight, Paddy_blast, Paddy_brown_spot, Paddy_dead_heart, Paddy_downy_mildew,
+Paddy_hispa, Paddy_normal, Paddy_tungro, Potato___Early_blight, Potato___Late_blight, Potato___healthy,
+Sugarcane_Healthy, Sugarcane_Mosaic, Sugarcane_RedRot, Sugarcane_Rust, Sugarcane_Yellow,
+Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Leaf_Mold, Tomato_Septoria_leaf_spot,
+Tomato_Spider_mites_Two_spotted_spider_mite, Tomato__Target_Spot, Tomato__Tomato_YellowLeaf__Curl_Virus,
+Tomato__Tomato_mosaic_virus, Tomato_healthy, Wheat_Brown rust, Wheat_Healthy, Wheat_Loose Smut,
+Wheat_Mildew, Wheat_Septoria, Wheat_Stem Rust, Wheat_Yellow rust
+```
 
 ---
 
 ## 🌟 Future Improvements
 
-- **Offline Disease Library**: Allow users to access disease information offline.
-- **Additional Plant Care Tips**: Expand the database of plant care tips.
-- **Community Contributions**: Enable users to submit new diseases and share their experiences.
+✅ **Offline Disease Library** – Enable users to access disease details without an internet connection.  
+✅ **Expanded Plant Care Tips** – Enhance the database with more plant care insights.  
+✅ **Community Contributions** – Allow users to submit new diseases and share their experiences.  
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **PyTorch** for providing tools to deploy efficient machine learning models.
-- **Flutter Documentation** for their comprehensive resources.
-- **Firebase** for the backend authentication support.
-- **FastAPI** for deploying the model API.
+Special thanks to:  
+- 🚀 **[PyTorch](https://pytorch.org/)** – For providing efficient tools to deploy ML models.  
+- 📖 **[Flutter Documentation](https://flutter.dev/docs)** – For comprehensive development resources.  
+- 🔐 **[Firebase](https://firebase.google.com/)** – For secure authentication and backend support.  
+- ⚡ **[FastAPI](https://fastapi.tiangolo.com/)** – For serving the ML model efficiently.  
 
 ---
 
-## 🔗 Links
+## 🔗 Useful Links
 
-- **API Server**: [https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post](https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post)
-- **Model and FastAPI GitHub Repository**: [https://github.com/Salman-Farid/plant_disease_detection.git](https://github.com/Salman-Farid/plant_disease_detection.git)
-- **PlantTreatmonty App GitHub Repository**: [https://github.com/Salman-Farid/planty.git](https://github.com/Salman-Farid/planty.git)
+- 📡 **API Documentation** – [Click here](https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post) to access the API endpoints.  
+- 🧠 **ML Model & FastAPI Repository** – [View on GitHub](https://github.com/Salman-Farid/plant_disease_detection.git).  
+- 📱 **Planty App Repository** – [Explore on GitHub](https://github.com/Salman-Farid/planty.git).  
 
 ---
 
-This updated README includes all the necessary details about the model, class labels, and API deployment. Make sure to replace any placeholders with actual links or paths as needed.
+## 🚀 Quick Start
+
+Run the Flutter app using the following command:
+```bash
+flutter run
+```
+
+Deploy the FastAPI backend:
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+---
+
+This version looks polished, professional, and easy to navigate. Let me know if you need any further tweaks! 🚀
