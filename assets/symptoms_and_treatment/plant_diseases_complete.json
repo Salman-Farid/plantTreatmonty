@@ -1,0 +1,190 @@
+{
+  "diseases": {
+    "Bitter gourd - Downy Mildew": {
+      "symptoms": "Yellow patches on leaves, white fungal growth underneath, brown crispy leaves, stunted growth, reduced yield",
+      "treatments": "Spray copper oxychloride 2.5g/L, apply mancozeb 2g/L weekly, remove infected parts, improve ventilation, morning watering only"
+    },
+    "Bitter gourd - Healthy": {
+      "characteristics": "Deep green leaves, vigorous growth, healthy fruits, strong vines, good flowering"
+    },
+    "Bitter gourd - Jassid": {
+      "symptoms": "Yellowing leaf edges, leaf curling, stunted growth, visible small insects, hopper burn",
+      "treatments": "Apply neem oil 5ml/L, install yellow sticky traps, spray imidacloprid 0.5ml/L, remove affected leaves, biological control"
+    },
+    "Bitter gourd - Leaf Spot": {
+      "symptoms": "Circular brown spots, dark margins around spots, yellowing leaves, premature leaf drop, fruit blemishes",
+      "treatments": "Apply carbendazim 1g/L, remove infected leaves, ensure proper drainage, maintain plant spacing, spray micronutrients"
+    },
+    "Bitter gourd - Nitrogen Deficiency": {
+      "symptoms": "Yellowing older leaves, stunted growth, thin stems, poor fruit set, reduced leaf size",
+      "treatments": "Apply urea 2g/L foliar spray, side dressing with NPK, organic manure application, calcium nitrate spray, soil amendment"
+    },
+    "Bitter gourd - Nitrogen and Magnesium Deficiency": {
+      "symptoms": "Interveinal chlorosis, leaf margin necrosis, poor growth, reduced flowering, yellowing between veins",
+      "treatments": "Apply magnesium sulfate 2g/L, foliar spray of NPK, organic compost application, balanced fertilizer, micronutrient mix"
+    },
+    "Bitter gourd - Nitrogen and Potassium Deficiency": {
+      "symptoms": "Leaf margin scorching, poor fruit development, weak stems, yellowing leaves, reduced yield",
+      "treatments": "Apply potassium nitrate 3g/L, NPK foliar spray, organic fertilizer, balanced nutrition, soil amendment"
+    },
+    "Bitter gourd - Potassium Deficiency": {
+      "symptoms": "Weak stems, yellowing older leaves, reduced growth, poor fruit set, leaf scorch",
+      "treatments": "Apply potassium chloride 3g/L, balanced fertilizer, improve soil drainage, foliar potassium application"
+    },
+    "Bitter gourd - Potassium and Magnesium Deficiency": {
+      "symptoms": "Leaf margins yellowing, interveinal chlorosis, poor growth, reduced flowering, yellowing between veins",
+      "treatments": "Apply potassium sulfate 3g/L, magnesium sulfate 2g/L, balanced fertilization, improve soil structure"
+    },
+    "Corn Blight": {
+      "symptoms": "Long gray-green lesions, leaf withering, lower leaf infection, stunted growth, poor ear development",
+      "treatments": "Apply propiconazole 1ml/L, remove infected leaves, ensure proper spacing, maintain drainage, balanced fertilization"
+    },
+    "Corn Common Rust": {
+      "symptoms": "Reddish-brown pustules, leaf discoloration, chlorotic spots, reduced vigor, poor grain fill",
+      "treatments": "Spray triazole fungicides, early detection and removal, proper spacing, balanced nutrition, timely irrigation"
+    },
+    "Corn Gray Leaf Spot": {
+      "symptoms": "Rectangle-shaped lesions, gray to tan spots, lower leaf yellowing, leaf death, yield reduction",
+      "treatments": "Apply strobilurin fungicides, remove infected tissue, improve air circulation, proper spacing, balanced fertilization"
+    },
+    "Corn Healthy": {
+      "characteristics": "Dark green leaves, strong stalks, good tassel development, uniform ear fill, vigorous growth"
+    },
+    "Cucumber Anthracnose": {
+      "symptoms": "Circular dark spots, sunken lesions, yellowing leaves, fruit spots, stem cankers",
+      "treatments": "Apply chlorothalonil 2g/L, remove infected parts, improve drainage, maintain spacing, copper-based sprays"
+    },
+    "Cucumber Bacterial Wilt": {
+      "symptoms": "Rapid wilting, leaf yellowing, stem discoloration, plant collapse, bacterial ooze",
+      "treatments": "Control cucumber beetles, remove infected plants, maintain tool hygiene, proper irrigation, copper sprays"
+    },
+    "Cucumber Downy Mildew": {
+      "symptoms": "Yellow angular spots, purple-gray mold, leaf curling, stunted growth, reduced yield",
+      "treatments": "Apply metalaxyl 2g/L, remove infected leaves, improve ventilation, morning watering, balanced nutrition"
+    },
+    "Cucumber Fresh Leaf": {
+      "characteristics": "Bright green color, firm texture, good moisture content, uniform size, healthy appearance"
+    },
+    "Cucumber Gummy Stem Blight": {
+      "symptoms": "Water-soaked lesions, stem cankers, gummy exudate, leaf spots, fruit rot",
+      "treatments": "Apply thiophanate-methyl, prune infected parts, improve drainage, maintain spacing, balanced fertilization"
+    },
+    "Eggplant - Epilachna Beetle": {
+      "symptoms": "Skeletonized leaves, grub feeding damage, reduced leaf area, stunted growth, yield loss",
+      "treatments": "Apply neem oil 5ml/L, handpick beetles, use pheromone traps, spray cypermethrin 1ml/L, field sanitation"
+    },
+    "Eggplant - Flea Beetle": {
+      "symptoms": "Small holes in leaves, shot-hole appearance, wilting, stunted growth, reduced yield",
+      "treatments": "Apply carbaryl dust, use sticky traps, maintain field cleanliness, proper irrigation, balanced fertilization"
+    },
+    "Eggplant - Healthy": {
+      "characteristics": "Dark green leaves, strong stems, good fruit set, uniform growth, vigorous appearance"
+    },
+    "Lentil Ascochyta Blight": {
+      "symptoms": "Dark spots on leaves, stem lesions, pod infection, seed discoloration, plant death",
+      "treatments": "Apply carbendazim 1g/L, remove infected plants, improve drainage, proper spacing, balanced nutrition"
+    },
+    "Lentil Normal": {
+      "characteristics": "Healthy green foliage, good pod formation, uniform growth, strong stems, vigorous plants"
+    },
+    "Lentil Rust": {
+      "symptoms": "Rusty brown pustules, leaf yellowing, premature defoliation, reduced pod filling, yield loss",
+      "treatments": "Apply propiconazole 1ml/L, remove infected parts, improve air circulation, proper spacing, timely irrigation"
+    },
+    "Paddy Bacterial Leaf Blight": {
+      "symptoms": "Water-soaked lesions, yellow margins, wilting, kresek phase, grain discoloration",
+      "treatments": "Apply streptocycline 0.3g/L, copper oxychloride spray, remove infected plants, water management, balanced nutrition"
+    },
+    "Paddy Blast": {
+      "symptoms": "Diamond-shaped lesions, white-gray center, neck rot, panicle damage, leaf spots",
+      "treatments": "Apply tricyclazole 0.6g/L, remove infected parts, improve drainage, balanced nutrition, silicon application"
+    },
+    "Paddy Brown Spot": {
+      "symptoms": "Oval brown spots, dark centers, leaf yellowing, reduced tillering, poor grain filling",
+      "treatments": "Apply propiconazole 1ml/L, remove infected leaves, proper spacing, balanced nutrition, proper irrigation"
+    },
+    "Paddy Healthy": {
+      "characteristics": "Dark green leaves, strong tillers, healthy panicles, uniform growth, good grain filling"
+    },
+    "Potato - Early Blight": {
+      "symptoms": "Dark concentric rings, leaf yellowing, stem lesions, tuber spots, defoliation",
+      "treatments": "Apply mancozeb 2.5g/L, remove infected leaves, improve drainage, proper spacing, balanced nutrition"
+    },
+    "Potato - Late Blight": {
+      "symptoms": "Water-soaked spots, white fungal growth, brown lesions, rapid spread, tuber rot",
+      "treatments": "Apply metalaxyl+mancozeb, remove infected parts, improve drainage, proper spacing, balanced nutrition"
+    },
+    "Potato - Healthy": {
+      "characteristics": "Dark green foliage, strong stems, good tuber formation, uniform growth, healthy appearance"
+    },
+    "Tomato Bacterial Spot": {
+      "symptoms": "Small dark spots, leaf yellowing, fruit lesions, defoliation, reduced yield",
+      "treatments": "Apply copper sprays, remove infected parts, improve drainage, proper spacing, balanced nutrition"
+    },
+    "Tomato Early Blight": {
+      "symptoms": "Dark concentric rings, leaf yellowing, stem cankers, fruit rot, defoliation",
+      "treatments": "Apply chlorothalonil 2g/L, remove infected parts, improve air circulation, proper spacing, balanced fertilization"
+    },
+    "Tomato Healthy": {
+      "characteristics": "Dark green, vigorous leaves, healthy fruit set, strong stems, good yield potential"
+    },
+    "Tomato Late Blight": {
+      "symptoms": "Water-soaked lesions, white fungal growth, stem lesions, rapid spread, defoliation",
+      "treatments": "Apply systemic fungicides, remove infected leaves, improve drainage, maintain proper spacing, balanced nutrition"
+    },
+    "Tomato_Leaf_Mold": {
+      "symptoms": "Yellow spots on upper leaf surface, moldy growth on undersides, leaf curling, stunted growth, reduced fruit set",
+      "treatments": "Apply fungicides like copper hydroxide, remove infected leaves, improve air circulation, avoid overhead irrigation"
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "symptoms": "Small dark brown spots with white centers, yellow halos around spots, leaf yellowing, premature leaf drop",
+      "treatments": "Apply chlorothalonil, remove infected foliage, maintain spacing, improve ventilation, use resistant varieties"
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+      "symptoms": "Stippling on leaves, webbing, yellowing of leaves, leaf drop, reduced growth, distorted fruit",
+      "treatments": "Apply insecticidal soap, neem oil, use miticides like abamectin, remove heavily infested parts, improve humidity"
+    },
+    "Tomato_Target_Spot": {
+      "symptoms": "Small dark spots with concentric rings, yellow halos, leaf drop, reduced fruit quality",
+      "treatments": "Apply fungicides like mancozeb, remove infected leaves, improve air circulation, water at base of plants"
+    },
+    "Tomato_Tomato_YellowLeaf_Curl_Virus": {
+      "symptoms": "Yellowing of leaves, upward curling, stunted growth, poor fruit set, vein clearing, plant death",
+      "treatments": "Control whiteflies, remove infected plants, use resistant varieties, practice crop rotation"
+    },
+    "Tomato_Tomato_mosaic_virus": {
+      "symptoms": "Mosaic pattern on leaves, yellow spots, stunted growth, poor fruit set, leaf curling",
+      "treatments": "Remove infected plants, control aphids, use resistant varieties, clean tools and equipment"
+    },
+    "Tomato_healthy": {
+      "characteristics": "Dark green leaves, strong stems, healthy fruit set, vigorous growth, high yield potential"
+    },
+    "Wheat_Brown_rust": {
+      "symptoms": "Small reddish-brown pustules on leaves, yellowing, premature leaf death, reduced yield",
+      "treatments": "Apply triazole fungicides, remove infected leaves, maintain spacing, resistant varieties, crop rotation"
+    },
+    "Wheat_Healthy": {
+      "characteristics": "Dark green leaves, strong tillers, healthy spikes, vigorous growth, good grain fill"
+    },
+    "Wheat_Loose_Smut": {
+      "symptoms": "White smutty masses replacing kernels, head deformities, stunted plants",
+      "treatments": "Use resistant varieties, apply fungicides like triadimenol, avoid using contaminated seeds"
+    },
+    "Wheat_Mildew": {
+      "symptoms": "Powdery white fungal growth on leaves, leaf curling, stunted growth, premature leaf death",
+      "treatments": "Apply systemic fungicides, improve air circulation, use resistant wheat varieties"
+    },
+    "Wheat_Septoria": {
+      "symptoms": "Lesions with dark borders on leaves, yellow halos, reduced grain formation, leaf drop",
+      "treatments": "Apply chlorothalonil, remove infected leaves, ensure proper crop rotation, use resistant varieties"
+    },
+    "Wheat_Stem_Rust": {
+      "symptoms": "Reddish-brown pustules on stems, reduced plant height, poor grain formation",
+      "treatments": "Apply fungicides like propiconazole, remove infected plants, use resistant wheat varieties, crop rotation"
+    },
+    "Wheat_Yellow_rust": {
+      "symptoms": "Yellow pustules on leaves, stunted growth, reduced vigor, leaf yellowing",
+      "treatments": "Apply fungicides like fenpropimorph, remove infected plants, use resistant wheat varieties, proper spacing"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "126789181654",
+    "project_id": "planttreatmonty-dfebf",
+    "storage_bucket": "planttreatmonty-dfebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126789181654:android:7964e9272498f8d7c42977",
+        "android_client_info": {
+          "package_name": "com.example.plant_treatmonty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126789181654-vkc0ri98ed3gvrennr3qdsaq1lmkasd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrc6MnhUrByCSHywbywZarJTejSvpf8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126789181654-vkc0ri98ed3gvrennr3qdsaq1lmkasd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126789181654-4ed9ueusk46sjdpiv88bfgv64c6v29uo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantRec"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

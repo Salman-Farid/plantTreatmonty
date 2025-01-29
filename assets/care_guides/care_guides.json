@@ -1,0 +1,112 @@
+{
+  "careGuides": [
+    {
+      "title": "Watering Guide",
+      "icon": "water_drop",
+      "color": "#2196F3",
+      "tips": [
+        "Water deeply and less frequently to encourage strong root systems.",
+        "Best time to water is early morning to minimize evaporation and fungal growth.",
+        "Check soil moisture before watering by inserting your finger 1-2 inches into the soil.",
+        "Avoid waterlogging the roots, as it can lead to root rot and oxygen deprivation.",
+        "Use a watering can with a fine nozzle for delicate plants to avoid soil erosion.",
+        "For succulents and cacti, allow the soil to dry completely between waterings.",
+        "Use room-temperature water to avoid shocking the plant's roots.",
+        "Water the base of the plant rather than the leaves to prevent fungal diseases.",
+        "During rainy seasons, reduce watering frequency to avoid over-saturation.",
+        "For seedlings, use a misting spray to keep the soil moist without disturbing the roots.",
+        "In winter, reduce watering as plants enter dormancy and require less moisture.",
+        "Consider using self-watering pots for consistent moisture levels.",
+        "Group plants with similar watering needs together for easier maintenance.",
+        "Use a rain barrel to collect and store rainwater for eco-friendly watering.",
+        "Monitor plants for signs of underwatering, such as drooping leaves or dry soil.",
+        "For plants in clay soil, water less frequently as clay retains moisture longer.",
+        "For sandy soil, water more frequently as it drains quickly and dries out faster.",
+        "Avoid watering during the hottest part of the day to prevent water loss through evaporation.",
+        "Use a moisture meter for precise watering, especially for sensitive plants.",
+        "For hanging plants, check drainage holes to ensure excess water can escape."
+      ]
+    },
+    {
+      "title": "Fertilization",
+      "icon": "grass",
+      "color": "#4CAF50",
+      "tips": [
+        "Apply NPK fertilizer every 3-4 weeks during the growing season for optimal growth.",
+        "Use organic compost to enrich the soil with nutrients and improve its structure.",
+        "Monitor leaf color for nutrient deficiencies: yellow leaves (nitrogen), purple edges (phosphorus), brown spots (potassium).",
+        "Avoid over-fertilization, which can cause nutrient burn and harm the plant.",
+        "Use slow-release granular fertilizers for long-term nutrient availability.",
+        "For flowering plants, choose a fertilizer high in phosphorus to promote blooms.",
+        "For leafy plants, use a nitrogen-rich fertilizer to encourage lush foliage.",
+        "Fertilize after watering to prevent root burn and ensure even nutrient distribution.",
+        "Test soil pH before fertilizing; most plants prefer a pH between 6.0 and 7.0.",
+        "Use foliar sprays for quick nutrient absorption, especially for micronutrients like iron and magnesium.",
+        "Incorporate worm castings into the soil for a natural, nutrient-rich boost.",
+        "Avoid fertilizing during dormancy or extreme weather conditions.",
+        "Use fish emulsion as a natural liquid fertilizer for quick results.",
+        "For potted plants, flush the soil occasionally to prevent salt buildup from fertilizers.",
+        "Consider using seaweed extract as a natural growth stimulant and stress reliever.",
+        "For acid-loving plants like azaleas, use fertilizers specifically formulated for acidic soils.",
+        "For vegetables, use a balanced fertilizer to support both foliage and fruit production.",
+        "Avoid fertilizing newly transplanted plants until they establish roots.",
+        "Use compost tea as a gentle, organic fertilizer for seedlings and young plants.",
+        "For orchids, use a specialized orchid fertilizer to meet their unique nutrient needs."
+      ]
+    },
+    {
+      "title": "Pest Control",
+      "icon": "bug_report",
+      "color": "#FF9800",
+      "tips": [
+        "Regularly inspect plants for signs of pests, such as holes in leaves or sticky residue.",
+        "Use neem oil as a natural pesticide to deter a wide range of pests.",
+        "Introduce beneficial insects like ladybugs to control aphids and other pests.",
+        "Remove affected leaves or stems immediately to prevent pest spread.",
+        "Use insecticidal soap to target soft-bodied pests like spider mites and whiteflies.",
+        "Place sticky traps near plants to catch flying insects like fungus gnats.",
+        "Maintain plant hygiene by removing dead leaves and debris where pests can hide.",
+        "Spray plants with a strong stream of water to dislodge pests like aphids and spider mites.",
+        "Use diatomaceous earth around the base of plants to deter crawling insects.",
+        "Avoid over-fertilizing with nitrogen, as it can attract pests like aphids.",
+        "Rotate crops in the garden to disrupt pest life cycles and reduce infestations.",
+        "For severe infestations, use chemical pesticides as a last resort, following label instructions.",
+        "Quarantine new plants for a few weeks before introducing them to your garden.",
+        "Use companion planting to naturally repel pests; for example, marigolds deter nematodes.",
+        "Encourage birds and bats to visit your garden, as they are natural predators of many pests.",
+        "For indoor plants, isolate infested plants to prevent pests from spreading.",
+        "Use garlic or chili spray as a natural repellent for soft-bodied pests.",
+        "For scale insects, use a cotton swab dipped in rubbing alcohol to remove them manually.",
+        "For caterpillars, handpick them off plants and relocate them away from your garden.",
+        "For slugs and snails, use beer traps or copper tape around planters to deter them."
+      ]
+    },
+    {
+      "title": "Growth Conditions",
+      "icon": "wb_sunny",
+      "color": "#FFC107",
+      "tips": [
+        "Ensure proper sunlight exposure: most plants need 6-8 hours of direct sunlight daily.",
+        "Maintain optimal spacing between plants to allow for air circulation and prevent disease.",
+        "Control weed growth by mulching or hand-weeding regularly.",
+        "Monitor temperature conditions: most plants thrive between 60°F and 75°F (15°C to 24°C).",
+        "Use shade cloth or row covers to protect plants from extreme heat or cold.",
+        "Rotate potted plants regularly to ensure even light exposure on all sides.",
+        "For indoor plants, use grow lights to supplement natural light during winter months.",
+        "Avoid placing plants near drafts, heaters, or air conditioners, which can cause stress.",
+        "Use a thermometer and hygrometer to monitor temperature and humidity levels.",
+        "Group plants with similar light and humidity requirements together for easier care.",
+        "Prune plants regularly to promote airflow and reduce the risk of fungal diseases.",
+        "Use reflective surfaces like white walls or mirrors to increase light for indoor plants.",
+        "For tropical plants, maintain high humidity levels using a humidifier or pebble tray.",
+        "Avoid sudden temperature changes, as they can shock plants and cause leaf drop.",
+        "Use windbreaks or barriers to protect outdoor plants from strong winds.",
+        "For shade-loving plants, place them under trees or in areas with filtered light.",
+        "For sun-loving plants, ensure they receive full sunlight without obstruction.",
+        "Use a fan to improve air circulation for indoor plants, reducing the risk of mold.",
+        "For cold-sensitive plants, bring them indoors during frost or cover them with frost cloth.",
+        "For heat-sensitive plants, provide afternoon shade to prevent scorching."
+      ]
+    }
+  ]
+}
