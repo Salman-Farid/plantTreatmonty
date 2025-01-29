@@ -68,11 +68,11 @@
   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/2.png" width="150" style="margin: 10px;">
   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/3.png" width="150" style="margin: 10px;">
   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/4.png" width="150" style="margin: 10px;">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/5.png" width="150" style="margin: 10px;">
+   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/6.png" width="150" style="margin: 10px;">
   <br>
 
   <!-- Row 2 -->
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/5.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/6.png" width="150" style="margin: 10px;">
   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/7.png" width="150" style="margin: 10px;">
   <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/8.png" width="150" style="margin: 10px;">
   <br>
