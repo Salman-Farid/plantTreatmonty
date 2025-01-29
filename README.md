@@ -134,14 +134,15 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 🙏 Acknowledgments
 
-Special thanks to:  
+## ✨Technology Used:
+```
 - 🚀 **[PyTorch](https://pytorch.org/)** – For providing efficient tools to deploy ML models.  
 - 📖 **[Flutter Documentation](https://flutter.dev/docs)** – For comprehensive development resources.  
 - 🔐 **[Firebase](https://firebase.google.com/)** – For secure authentication and backend support.  
 - ⚡ **[FastAPI](https://fastapi.tiangolo.com/)** – For serving the ML model efficiently.  
-
+- 🌐 **[Vercel](https://vercel.com/)** – For deploying the model API server.  
+```
 ---
 
 ## 🔗 Useful Links
@@ -166,4 +167,4 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 ---
 
-This version looks polished, professional, and easy to navigate. Let me know if you need any further tweaks! 🚀
+This version looks polished, professional, and easy to navigate. Let me know if you need any further tweaks! 
