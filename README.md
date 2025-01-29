@@ -1,13 +1,16 @@
+Here’s the updated README file with the necessary details about the quantized PyTorch model (EfficientNet-B0), class labels, and API deployment. I’ve also included the links to the FastAPI server and GitHub repositories.
+
+---
 
 # 🌱 PlantTreatmonty: Plant Disease Detection App
 
-PlantTreatmonty is a Flutter-based mobile application designed to help users identify plant diseases, gain plant care insights, and access a library of common plant diseases. Powered by a quantized ML model for efficient on-device inference, this app provides fast and accurate plant disease detection without relying on server-based predictions. Additional features include user authentication via Firebase, a plant care tips section, and an extensive disease library for users to explore.
+PlantTreatmonty is a Flutter-based mobile application designed to help users identify plant diseases, gain plant care insights, and access a library of common plant diseases. Powered by a **quantized PyTorch model (EfficientNet-B0)**, this app provides fast and accurate plant disease detection without relying on server-based predictions. Additional features include user authentication via Firebase, a plant care tips section, and an extensive disease library for users to explore.
 
 ---
 
 ## 📱 Features
 
-- **Plant Disease Detection**: Quickly identify plant diseases by uploading or capturing plant images. The app uses a quantized ML model optimized for mobile to provide fast and accurate results.
+- **Plant Disease Detection**: Quickly identify plant diseases by uploading or capturing plant images. The app uses a **quantized EfficientNet-B0 model** optimized for mobile to provide fast and accurate results.
 - **Firebase Authentication**: Secure user login and signup powered by Firebase.
 - **Plant Care Tips**: Discover tips for maintaining healthy plants and preventing disease.
 - **Disease Library**: Access a comprehensive library of common plant diseases, including images, symptoms, and treatments.
@@ -27,8 +30,8 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/plant_treatmonty.git
-   cd plant_treatmonty
+   git clone https://github.com/Salman-Farid/planty.git
+   cd planty
    ```
 
 2. Install dependencies:
@@ -48,7 +51,7 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
    ```yaml
    assets:
-     - assets/models/plant_disease_model.tflite
+     - assets/models/plant_disease_model.pt
    ```
 
 5. Run the app:
@@ -63,10 +66,10 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 | Feature              | Screenshot |
 |----------------------|------------|
-| Disease Detection    | ![Detection](path_to_screenshot) |
-| Login/Signup         | ![Authentication](path_to_screenshot) |
-| Disease Library      | ![Library](path_to_screenshot) |
-| Plant Care Tips      | ![Tips](path_to_screenshot) |
+| Disease Detection    | ![Detection](https://1drv.ms/i/c/f8a5708b5abbf162/ETc_CqYpWw1KgADnZWFo_LQB6xECqNw4zw8uhtkYutClaA?e=twqnyG) |
+| Login/Signup         | ![Authentication](https://1drv.ms/i/c/f8a5708b5abbf162/EbY776mj8yBEjW4qbETqsnQBrsTHzMjJ_w3SxJyi6KcdeQ?e=yQt6oH) |
+| Disease Library      | ![Library](https://1drv.ms/i/c/f8a5708b5abbf162/ERMO4KbeXuNCpQy59DgY1dEB2r7TSc5RpV8fA-D5jPQCcA?e=qRxpBx) |
+| Plant Care Tips      | ![Tips](https://1drv.ms/i/c/f8a5708b5abbf162/EYKQ-UnWiopPrBSLFkhijwwB2W0Q3-cYLIM9wYOOvIPG-g?e=d6Wu98) |
 
 ---
 
@@ -74,12 +77,33 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 - **Flutter Framework**: A cross-platform UI toolkit to build the app for both Android and iOS.
 - **Firebase Authentication**: Manages user authentication securely.
-- **TensorFlow Lite**: ML model quantized for efficient, on-device disease detection.
+- **PyTorch (EfficientNet-B0)**: A quantized deep learning model trained for detecting plant diseases. The model is optimized to perform predictions directly on the device for low latency and offline functionality.
 - **Dart**: Main programming language used in Flutter development.
 
-### ML Model
+### ML Model Details
 
-The app uses a quantized ML model trained for detecting plant diseases. The model is optimized to perform predictions directly on the device for low latency and offline functionality.
+- **Model Name**: EfficientNet-B0 (Quantized)
+- **Classes**: 66
+- **Plants**: 13
+- **Class Labels**:
+  ```plaintext
+  Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot,
+  Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency,
+  Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency,
+  Bitter gourd - Potassium and Magnesium Deficiency, Corn_Blight, Corn_Common_Rust, Corn_Gray_Leaf_Spot,
+  Corn_Healthy, Cucumber_Anthracnose, Cucumber_Bacterial Wilt, Cucumber_Downy Mildew, Cucumber_Fresh Leaf,
+  Cucumber_Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy,
+  Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency,
+  Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil_Ascochyta blight,
+  Lentil_Normal, Lentil_Powdery Mildew, Lentil_Rust, Paddy_bacterial_leaf_blight, Paddy_bacterial_leaf_streak,
+  Paddy_bacterial_panicle_blight, Paddy_blast, Paddy_brown_spot, Paddy_dead_heart, Paddy_downy_mildew,
+  Paddy_hispa, Paddy_normal, Paddy_tungro, Potato___Early_blight, Potato___Late_blight, Potato___healthy,
+  Sugarcane_Healthy, Sugarcane_Mosaic, Sugarcane_RedRot, Sugarcane_Rust, Sugarcane_Yellow,
+  Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Leaf_Mold, Tomato_Septoria_leaf_spot,
+  Tomato_Spider_mites_Two_spotted_spider_mite, Tomato__Target_Spot, Tomato__Tomato_YellowLeaf__Curl_Virus,
+  Tomato__Tomato_mosaic_virus, Tomato_healthy, Wheat_Brown rust, Wheat_Healthy, Wheat_Loose Smut,
+  Wheat_Mildew, Wheat_Septoria, Wheat_Stem Rust, Wheat_Yellow rust
+  ```
 
 ---
 
@@ -99,9 +123,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [TensorFlow Lite](https://www.tensorflow.org/lite) for providing tools to deploy efficient machine learning models on mobile.
-- [Flutter Documentation](https://flutter.dev/docs) for their comprehensive resources.
-- [Firebase](https://firebase.google.com/) for the backend authentication support.
+- **PyTorch** for providing tools to deploy efficient machine learning models.
+- **Flutter Documentation** for their comprehensive resources.
+- **Firebase** for the backend authentication support.
+- **FastAPI** for deploying the model API.
 
---- 
+---
 
+## 🔗 Links
+
+- **API Server**: [https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post](https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post)
+- **Model and FastAPI GitHub Repository**: [https://github.com/Salman-Farid/plant_disease_detection.git](https://github.com/Salman-Farid/plant_disease_detection.git)
+- **PlantTreatmonty App GitHub Repository**: [https://github.com/Salman-Farid/planty.git](https://github.com/Salman-Farid/planty.git)
+
+---
+
+This updated README includes all the necessary details about the model, class labels, and API deployment. Make sure to replace any placeholders with actual links or paths as needed.
