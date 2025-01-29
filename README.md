@@ -64,12 +64,26 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 ## 🌿 Screenshots
 
-| Feature              | Screenshot |
-|----------------------|------------|
-| Disease Detection    | ![Detection](https://1drv.ms/i/c/f8a5708b5abbf162/ETc_CqYpWw1KgADnZWFo_LQB6xECqNw4zw8uhtkYutClaA?e=twqnyG) |
-| Login/Signup         | ![Authentication](https://1drv.ms/i/c/f8a5708b5abbf162/EbY776mj8yBEjW4qbETqsnQBrsTHzMjJ_w3SxJyi6KcdeQ?e=yQt6oH) |
-| Disease Library      | ![Library](https://1drv.ms/i/c/f8a5708b5abbf162/ERMO4KbeXuNCpQy59DgY1dEB2r7TSc5RpV8fA-D5jPQCcA?e=qRxpBx) |
-| Plant Care Tips      | ![Tips](https://1drv.ms/i/c/f8a5708b5abbf162/EYKQ-UnWiopPrBSLFkhijwwB2W0Q3-cYLIM9wYOOvIPG-g?e=d6Wu98) |
+<p align="center">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/1.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/2.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/3.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/4.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/5.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/6.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/7.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/8.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/9.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/10.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/12.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/13.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/14.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/15.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/16.png" width="150">
+  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/17.png" width="150">
+</p>
+
+
 
 ---
 
