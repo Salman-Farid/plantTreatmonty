@@ -1,6 +1,7 @@
 # 🌱 PlantTreatmonty: Plant Disease Detection App
+---
 
-PlantTreatmonty is a Flutter-based mobile application designed to help users identify plant diseases, gain plant care insights, and access a library of common plant diseases. Powered by a **quantized PyTorch model (EfficientNet-B0)**, this app provides fast and accurate plant disease detection without relying on server-based predictions. Additional features include user authentication via Firebase, a plant care tips section, and an extensive disease library for users to explore.
+**PlantTreatmonty** is a Flutter-based mobile application designed to help users identify plant diseases, gain plant care insights, and access a comprehensive library of common plant diseases. Powered by a **quantized PyTorch model (EfficientNet-B0)**, the app provides fast, accurate, and offline plant disease detection without the need for server-based predictions. Additional features include secure user authentication via **Firebase**, a **plant care tips** section to help users maintain healthy plants, a vast **disease library** for exploring plant conditions, and **community feedback** for users to share experiences and improve the app. The app is designed with a **responsive interface** that adapts seamlessly to different screen sizes for an optimal user experience.
 
 ---
 
