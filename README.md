@@ -127,10 +127,10 @@ These are the 13
 
 
 
-#### 🏷️ Class Labels
+#### 🏷️Diseases
 ```plaintext
 Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot, Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency, Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency, Bitter gourd - Potassium and Magnesium Deficiency, Corn - Blight, Corn - Common Rust, Corn - Gray Leaf Spot, Corn - Healthy, Cucumber - Anthracnose, Cucumber - Bacterial Wilt, Cucumber - Downy Mildew, Cucumber - Fresh Leaf, Cucumber - Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy, Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency, Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil - Ascochyta Blight, Lentil - Normal, Lentil - Powdery Mildew, Lentil - Rust, Paddy - Bacterial Leaf Blight, Paddy - Bacterial Leaf Streak, Paddy - Bacterial Panicle Blight, Paddy - Blast, Paddy - Brown Spot, Paddy - Dead Heart, Paddy - Downy Mildew, Paddy - Hispa, Paddy - Normal, Paddy - Tungro, Potato - Early Blight, Potato - Late Blight, Potato - Healthy, Sugarcane - Healthy, Sugarcane - Mosaic, Sugarcane - Red Rot, Sugarcane - Rust, Sugarcane - Yellow, Tomato - Bacterial Spot, Tomato - Early Blight, Tomato - Late Blight, Tomato - Leaf Mold, Tomato - Septoria Leaf Spot, Tomato - Spider Mites - Two Spotted Spider Mite, Tomato - Target Spot, Tomato - Tomato Yellow Leaf Curl Virus, Tomato - Tomato Mosaic Virus, Tomato - Healthy, Wheat - Brown Rust, Wheat - Healthy, Wheat - Loose Smut, Wheat - Mildew, Wheat - Septoria, Wheat - Stem Rust, Wheat - Yellow Rust.
-
+```
 ---
 
 ## 🌟 Future Improvements
