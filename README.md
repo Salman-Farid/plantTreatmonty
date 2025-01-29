@@ -102,7 +102,30 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 
 - **Model Name**: EfficientNet-B0 (Quantized)  
 - **Total Classes**: 66  
-- **Supported Plants**: 13  
+- **Supported Plants**: 13
+
+#### 🏷️ Plant Names
+```plaintext
+Bitter gourd
+Corn
+Cucumber
+Eggplant
+Lentil
+Paddy
+Potato
+Sugarcane
+Tomato
+Wheat
+Soybean
+Pepper
+Pumpkin
+These are the 13 
+
+```
+
+
+
+
 
 #### 🏷️ Class Labels
 ```plaintext
