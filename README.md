@@ -129,23 +129,7 @@ These are the 13
 
 #### 🏷️ Class Labels
 ```plaintext
-Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot,
-Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency,
-Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency,
-Bitter gourd - Potassium and Magnesium Deficiency, Corn_Blight, Corn_Common_Rust, Corn_Gray_Leaf_Spot,
-Corn_Healthy, Cucumber_Anthracnose, Cucumber_Bacterial Wilt, Cucumber_Downy Mildew, Cucumber_Fresh Leaf,
-Cucumber_Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy,
-Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency,
-Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil_Ascochyta blight,
-Lentil_Normal, Lentil_Powdery Mildew, Lentil_Rust, Paddy_bacterial_leaf_blight, Paddy_bacterial_leaf_streak,
-Paddy_bacterial_panicle_blight, Paddy_blast, Paddy_brown_spot, Paddy_dead_heart, Paddy_downy_mildew,
-Paddy_hispa, Paddy_normal, Paddy_tungro, Potato___Early_blight, Potato___Late_blight, Potato___healthy,
-Sugarcane_Healthy, Sugarcane_Mosaic, Sugarcane_RedRot, Sugarcane_Rust, Sugarcane_Yellow,
-Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Leaf_Mold, Tomato_Septoria_leaf_spot,
-Tomato_Spider_mites_Two_spotted_spider_mite, Tomato__Target_Spot, Tomato__Tomato_YellowLeaf__Curl_Virus,
-Tomato__Tomato_mosaic_virus, Tomato_healthy, Wheat_Brown rust, Wheat_Healthy, Wheat_Loose Smut,
-Wheat_Mildew, Wheat_Septoria, Wheat_Stem Rust, Wheat_Yellow rust
-```
+Bitter gourd - Downy Mildew, Bitter gourd - Healthy, Bitter gourd - Jassid, Bitter gourd - Leaf Spot, Bitter gourd - Nitrogen Deficiency, Bitter gourd - Nitrogen and Magnesium Deficiency, Bitter gourd - Nitrogen and Potassium Deficiency, Bitter gourd - Potassium Deficiency, Bitter gourd - Potassium and Magnesium Deficiency, Corn - Blight, Corn - Common Rust, Corn - Gray Leaf Spot, Corn - Healthy, Cucumber - Anthracnose, Cucumber - Bacterial Wilt, Cucumber - Downy Mildew, Cucumber - Fresh Leaf, Cucumber - Gummy Stem Blight, Eggplant - Epilachna Beetle, Eggplant - Flea Beetle, Eggplant - Healthy, Eggplant - Jassid, Eggplant - Mite, Eggplant - Mite and Epilachna Beetle, Eggplant - Nitrogen Deficiency, Eggplant - Nitrogen and Potassium Deficiency, Eggplant - Potassium Deficiency, Lentil - Ascochyta Blight, Lentil - Normal, Lentil - Powdery Mildew, Lentil - Rust, Paddy - Bacterial Leaf Blight, Paddy - Bacterial Leaf Streak, Paddy - Bacterial Panicle Blight, Paddy - Blast, Paddy - Brown Spot, Paddy - Dead Heart, Paddy - Downy Mildew, Paddy - Hispa, Paddy - Normal, Paddy - Tungro, Potato - Early Blight, Potato - Late Blight, Potato - Healthy, Sugarcane - Healthy, Sugarcane - Mosaic, Sugarcane - Red Rot, Sugarcane - Rust, Sugarcane - Yellow, Tomato - Bacterial Spot, Tomato - Early Blight, Tomato - Late Blight, Tomato - Leaf Mold, Tomato - Septoria Leaf Spot, Tomato - Spider Mites - Two Spotted Spider Mite, Tomato - Target Spot, Tomato - Tomato Yellow Leaf Curl Virus, Tomato - Tomato Mosaic Virus, Tomato - Healthy, Wheat - Brown Rust, Wheat - Healthy, Wheat - Loose Smut, Wheat - Mildew, Wheat - Septoria, Wheat - Stem Rust, Wheat - Yellow Rust.
 
 ---
 
