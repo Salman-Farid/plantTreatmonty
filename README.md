@@ -10,8 +10,8 @@ PlantTreatmonty is a Flutter-based mobile application designed to help users ide
 - **Firebase Authentication**: Secure user login and signup powered by Firebase.
 - **Plant Care Tips**: Discover tips for maintaining healthy plants and preventing disease.
 - **Disease Library**: Access a comprehensive library of common plant diseases, including images, symptoms, and treatments.
-- **Responsive Design**: A user-friendly interface that adapts to various screen sizes for an optimal experience.
 - **Community Feedback**: Users can share their experiences and provide feedback to improve the plant disease detection system and overall app functionality.
+- **Responsive Design**: A user-friendly interface that adapts to various screen sizes for an optimal experience.
 
 ---
 
