@@ -45,13 +45,6 @@
         - `android/app/` for `google-services.json`
         - `ios/Runner/` for `GoogleService-Info.plist`
 
-4. Configure Firebase and ML model assets in `pubspec.yaml`:
-
-   ```yaml
-   assets:
-     - assets/models/plant_disease_model.pt
-   ```
-
 5. Run the app:
 
    ```bash
